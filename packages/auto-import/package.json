@@ -1,0 +1,24 @@
+{
+  "name": "@silver-wolf/auto-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+  },
+  "keywords": [
+    "auto-import-antd"
+  ],
+  "author": "nicole",
+  "license": "ISC",
+  "peerDependencies": {
+    "unplugin-auto-import": "^0.17.6"
+  },
+  "devDependencies": {
+    "unimport": "^3.7.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
