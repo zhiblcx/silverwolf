@@ -1,2 +1,5 @@
+import { Resolver } from 'unplugin-auto-import/types';
 
-export {  }
+declare const antdResolver: () => Resolver;
+
+export { antdResolver };

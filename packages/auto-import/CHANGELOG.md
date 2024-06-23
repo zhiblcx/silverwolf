@@ -1,7 +1,13 @@
 # @silver-wolf/auto-import
 
-## 1.0.1
+## 0.0.5
 
 ### Patch Changes
 
-- add auto-import
+- 11
+
+## 0.0.4
+
+### Patch Changes
+
+- 1
