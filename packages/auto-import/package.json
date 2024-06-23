@@ -1,10 +1,14 @@
 {
   "name": "@silver-wolf/auto-import",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhiblcx/silverwolf.git",
+    "directory": "packages/auto-import"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsup"
   },
   "keywords": [
