@@ -2,4 +2,6 @@ import { Resolver } from 'unplugin-auto-import/types';
 
 declare const antdResolver: () => Resolver;
 
-export { antdResolver };
+declare const tanStackResolver: (type: string) => Resolver;
+
+export { antdResolver, tanStackResolver };
